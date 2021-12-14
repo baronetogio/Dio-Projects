@@ -1,0 +1,9 @@
+@media screen and (max-width:700px) {
+    header .container {
+        width: 500px;
+    }
+    
+    header .container .access {
+        display: none;
+    }
+}
